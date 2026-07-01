@@ -11,24 +11,29 @@ Hi there! I'm a creative fullstack software engineer who enjoys challenging prob
 
 ### RECENT PROJECTS
 
-#### App Overload
-* App OverLoad is a group project that mirrors the functionality used on the widely used site StackOverflow
-* Built with JavaScript, Express, Pug, PostgreSQL, Heroku, Node.js, Sequelize
-* Other contributors: Moiz Ahmad and Jordan Bohmbach
-* Live application: https://app-overload.herokuapp.com/
-* Repository: https://github.com/AmMonsoon/app-overload
+#### Collaboardation
+* Full-Stack Kanban project management application built with React, Node.js, Express, PostgreSQL, and Sequelize
+* Designed secure JWT authentication using HTTP only cookies with protected routes and persistent user sessions
+* Implemented complete CRUD functionality for projects, boards, tasks with ownership based authorization
+* Built drag and drop task management with persistent ordering of tasks using @hello-pangea/dnd
+* Containerized the backend with Docker and deployed the app to AWS using Amazon ECR, ECS, RDS, and an Application Load Balancer
+* Created Playwright end-to-end tests covering authentication and core workflows
+* Live Link: https://collaboardation.com
+* Repository: https://github.com/AmMonsoon/Collaboardation
     
-
 #### InstaSplash
 * InstaSplash is a photo-sharing application combining the best features of both Instagram and Unsplash
 * Built with JavaScript, Python, React, Redux, CSS, PostgreSQL, Flask, SQLAlchemy, Docker, and Heroku
 * Other contributors: Jacob Weller, Colton Powers, and Daniel Pence
-* Live application: https://instasplash-live.herokuapp.com/login
 * Repository: https://github.com/AmMonsoon/InstaSplash
-
 
 #### Pet Friendly 
 * PetFriendly is a site where users can look for  locations to bring their furry companions along, post a property, and leave reviews
 * Built with JavaScript, Python, React, Redux, CSS, Flask, WTForms, PostgreSQL, SQLAlchemy, Heroku, and Docker
-* Live application: https://petfriendlyy.herokuapp.com/
 * Repository: https://github.com/AmMonsoon/petFriendly
+
+#### App Overload
+* App OverLoad is a group project that mirrors the functionality used on the widely used site StackOverflow
+* Built with JavaScript, Express, Pug, PostgreSQL, Heroku, Node.js, Sequelize
+* Other contributors: Moiz Ahmad and Jordan Bohmbach
+* Repository: https://github.com/AmMonsoon/app-overload
