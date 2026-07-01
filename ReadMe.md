@@ -6,7 +6,7 @@ Hi there! I'm a creative fullstack software engineer who enjoys challenging prob
 
 - **Latest Work:** https://collaboardation.com
 - **LinkedIn:** https://www.linkedin.com/in/alex-monson-144151222/
-- **Resume:** https://drive.google.com/file/d/1e-qoqhe23WGYzyS1uwhc52SQhy6JDgTQ/view?usp=sharing
+- **Resume:** https://drive.google.com/file/d/13FdBkTOG5YCK9IMuhgZ4RGVp7nRGJX72/view?usp=sharing
 
 
 ### RECENT PROJECTS
