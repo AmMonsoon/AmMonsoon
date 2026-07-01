@@ -1,17 +1,12 @@
-## I'm an outgoing full stack software developer who has a passion for problem solving. I have experience building web applications working with various tools such as Python, Javascript, React, Flask to name a few.
+## Full Stack Software Engineer passionate about building scalable web applications. Experienced with React, Node.js, Express, PostgreSQL, Docker, AWS, and E2E testing with Playwright.
 
-Hi there! I'm a creative fullstack software engineer who enjoys challenging problems, building apps, hiking , and trying out new places to eat!
+Hi there! I'm a creative fullstack software engineer who enjoys challenging problems, building apps, traveling and trying out new places to eat!
 
 ### CHECK ME OUT
 
-Website and Portfolio: https://ammonsoon.github.io/
-
 LinkedIn: https://www.linkedin.com/in/alex-monson-144151222/
-
-AngelList: https://angel.co/u/alex-monson
-
 Resume: https://drive.google.com/file/d/1-Zs0HgV-J27YWLwQcPfNdZXiDvOmTOz-/view
-
+Latest Work: https://collaboardation.com
 
 
 ### RECENT PROJECTS
