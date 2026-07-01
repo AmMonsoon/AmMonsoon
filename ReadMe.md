@@ -4,9 +4,9 @@ Hi there! I'm a creative fullstack software engineer who enjoys challenging prob
 
 ### CHECK ME OUT
 
-LinkedIn: https://www.linkedin.com/in/alex-monson-144151222/
-Resume: https://drive.google.com/file/d/1I2AxHsy-3YfBmPedaSF4vnNmgqOS89UX/view?usp=sharing
-Latest Work: https://collaboardation.com
+**LinkedIn: https://www.linkedin.com/in/alex-monson-144151222/
+**Resume: https://drive.google.com/file/d/1I2AxHsy-3YfBmPedaSF4vnNmgqOS89UX/view?usp=sharing
+**Latest Work: https://collaboardation.com
 
 
 ### RECENT PROJECTS
